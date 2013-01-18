@@ -1,8 +1,8 @@
 [user]
-	name = Bram Stein
-	email = b.l.stein@gmail.com
+  name = Bram Stein
+  email = b.l.stein@gmail.com
 [color]
-	diff = auto
-	status = auto
+  diff = auto
+  status = auto
   branch = auto
   interactive = auto
